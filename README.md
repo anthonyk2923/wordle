@@ -1,9 +1,16 @@
-# Vue Wordle
+##wordle
+How to Play
+Create a Wordle:
 
-[Live demo](https://vue-wordle.netlify.app/)
+Click "Create Wordle."
+Pick a secret word.
+Share the game link.
+Guess a Wordle:
 
-A Vue implementation of the [Wordle game](https://www.powerlanguage.co.uk/wordle/). This is just for fun and doesn't aim to 100% replicate the original.
-
-You can make your own Wordle and send it to friends by base64-encoding a word and include it as the URL query, e.g. https://vue-wordle.netlify.app/?YmxpbXA= (this will also allow words that are not in the dictionary.)
-
-This repository is open sourced for learning purposes only - the original creator(s) of Wordle own all applicable rights to the game itself.
+Click a shared game link.
+Guess the word within tries.
+Features
+Create custom word puzzles.
+Challenge friends with links.
+Have fun guessing words!
+Enjoy Wordle Multiplayer!
