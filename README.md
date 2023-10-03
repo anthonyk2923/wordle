@@ -1,4 +1,7 @@
-##wordle
+_________
+
+Worlde | https://bucolic-cat-688e0d.netlify.app/ | custom wordle links not working through netflify so git clone && npm run serve 
+_________
 How to Play
 Create a Wordle:
 
