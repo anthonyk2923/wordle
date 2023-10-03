@@ -1,24 +1,9 @@
-# worlde
+# Vue Wordle
 
-## Project setup
-```
-npm install
-```
+[Live demo](https://vue-wordle.netlify.app/)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+A Vue implementation of the [Wordle game](https://www.powerlanguage.co.uk/wordle/). This is just for fun and doesn't aim to 100% replicate the original.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+You can make your own Wordle and send it to friends by base64-encoding a word and include it as the URL query, e.g. https://vue-wordle.netlify.app/?YmxpbXA= (this will also allow words that are not in the dictionary.)
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This repository is open sourced for learning purposes only - the original creator(s) of Wordle own all applicable rights to the game itself.
